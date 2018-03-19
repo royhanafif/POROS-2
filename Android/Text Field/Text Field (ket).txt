@@ -1,0 +1,19 @@
+Apa itu text field??
+bagian dari UI yang digunakan sebagai sarana pengguna memasukkan text atau data. Pada xml menggunakan <EditText>.
+
+Apa saja macamnya??
+untuk menggunakan tipenya dengan menggunakan android:inputType="-------"
+-text              : keyboard normal(umum)
+-textEmailAddress  : dengan @ pada salah satu isinya(untuk input email)
+-textUri           : dengan / pada salah satu karakternya (biasanya untuk link)
+-number            : memasukkan angka
+-phone             : input keyboard seperti keypad telpon
+-textCapSentences  : keyboard normal tapi huruf kapital di setiap awal kalimat
+-textCapWord       : sama dengan cap sentences tetapi per kata, biasanya nama atau judul
+-textAutoCorrect   : dengan mengoreksi spelling dalam bahasa inggris
+-textPassword      : karakter yang disembunyikan(password)
+-textMultiLine     : bisa beberapa baris
+
+Caranya buat hint??
+dengan menggunakan android:hint="-----"
+

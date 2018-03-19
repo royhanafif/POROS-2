@@ -1,0 +1,15 @@
+Apa itu activity?
+Activity adalah komponen aplikasi saat membuat aplikasi anddroid yang menampilkan
+dan mengatur halaman aplikasi yang digunakan sebagai perantara antara pengguna
+dengan aplikasi. Satu activity memiliki satu user interface.
+
+Bagaimana cara membuat activity?
+Dengan cara membuat kelas yang di-extends ke kelas Activity, biasanya saat membuat porject baru di android studio maka akan default membuat MainActivity.java
+
+Bagaimana jika membuat lebih dari satu Activity?
+Biasanya dalam satu aplikasi memiliki banyak activity. Untuk memanggilnya dari activity lain yaitu dengan memanggil fungsi startActivity() dengan parameter Intent.
+
+Apa itu intent?
+objek yang mendefinisikan activity apa yang kita jalankan.
+
+https://diandeveloper.wordpress.com/2013/11/15/android-activity/
