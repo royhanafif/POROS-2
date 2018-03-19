@@ -1,0 +1,13 @@
+UI
+disini saya menggunaka RelativeLayout untuk membuatnya.
+Bagian text menggunakan layout wrap_content, centerHorizontal, center vertical.
+fontSize: 40pt
+
+UX
+menambah kode untuk import font.
+
+error
+awalnya terjadi error "file asset not found", maksudnya file font yang saya masukkan tidak ditemukan.
+
+solution.
+mencoba mengotak atik tempat file disimpan. Akhirnya bisa
