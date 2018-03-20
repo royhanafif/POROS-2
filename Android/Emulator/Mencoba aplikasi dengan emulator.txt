@@ -1,0 +1,5 @@
+Sebenarnya banyak emulator-emulator android yang ada. Disini saya menggunakan emulator android "Genymotion" (sesuai dengan rekomendasi mas Anton :v). Aplikasi ini digunakan untuk mempermudah ketika kita mencoba aplikasi yang kita buat.
+
+Untuk memakainya kita harus membuat virtual device baru terlebih dahulu. Pilih yang sesuai androidnya, ukuran layar, dan speksifikasi lainnya, dengan kebutuhan aplikasi anda. Caranya kita run dulu virtual device yang kita inginkan, kemudian run pada android studio seperti biasa.
+
+Catatan: Jangan lupa untuk download VirtualBoxnya juga. https://www.virtualbox.org/wiki/Downloads
