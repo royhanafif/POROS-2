@@ -1,0 +1,11 @@
+Apa itu Logcat??
+LogCat adalah fitur debugging yang ada pad android. Dengan Logcat kita bisa mengecek error, warning, atau perubahan nilai dari sebuah variabel.
+
+Bagaimana cara menggunakannya??
+Secara default, logcat hanya menampilkan informasi tentang sistem android itu sendiri. Bagaimana jika ingin mengirim pesan debugging ke LogCat langsung dari kode program?
+1. Log.i(String, String)  -->>> menampilkan informasi biasa, hijau.
+2. Log.d(String, String)  -->>> menampilkan informasi debug, biru.
+3. Log.w(String, String)  -->>> menampilkan informasi warnaing, kuning.
+4. Log.e(String, String)  -->>> menampilkan informasi error, merah.
+
+https://www.candra.web.id/tutorial-singkat-logcat-android/
