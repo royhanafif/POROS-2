@@ -1,0 +1,16 @@
+Shared Preferences??
+Menyimpan data pada aplikasi bisa dilakukan dengan beberapa cara:
+1. shared preferences : menyimpan data primitif dalam file internal aplikasi.
+2. internal storage : penyimpanan data privat pada memory internal device.
+3. external storage : penyimpanan data secara public pada memory external device.
+4. SQLite databases : penyimpanan data terstruktur pada datavase internal aplikasi.
+5. network connection : penyimpanan pada server dengan perantara jaringan(internet).
+
+Shared Preferences??????????
+-menyimpan data primitif, contoh : int, float, long, char, boolean
+-menggunakan konsep Key-Value.
+   Key  =namaVariabel
+   value=nilaiVaribel
+
+
+https://diandeveloper.wordpress.com/2013/12/15/shared-preferences/
