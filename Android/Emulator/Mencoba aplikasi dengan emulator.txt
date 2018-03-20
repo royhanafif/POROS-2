@@ -3,3 +3,6 @@ Sebenarnya banyak emulator-emulator android yang ada. Disini saya menggunakan em
 Untuk memakainya kita harus membuat virtual device baru terlebih dahulu. Pilih yang sesuai androidnya, ukuran layar, dan speksifikasi lainnya, dengan kebutuhan aplikasi anda. Caranya kita run dulu virtual device yang kita inginkan, kemudian run pada android studio seperti biasa.
 
 Catatan: Jangan lupa untuk download VirtualBoxnya juga. https://www.virtualbox.org/wiki/Downloads
+
+https://developer.android.com/studio/run/emulator.html?hl=id
+https://developer.android.com/studio/run/managing-avds.html?hl=id
