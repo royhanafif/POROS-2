@@ -11,3 +11,8 @@ awalnya terjadi error "file asset not found", maksudnya file font yang saya masu
 
 solution.
 mencoba mengotak atik tempat file disimpan. Akhirnya bisa
+https://www.youtube.com/watch?v=JOIJzrtYt4c
+
+sumber
+https://www.youtube.com/watch?v=GPMDHz8MJvg
+https://medium.com/@ahmadariffaizin/cara-menggunakan-custom-font-di-android-studio-dengan-library-calligraphy-44574dd9883
