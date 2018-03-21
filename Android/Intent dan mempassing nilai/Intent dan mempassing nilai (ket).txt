@@ -1,0 +1,12 @@
+Apa itu intent?
+Pesan yang digunakan untuk mengaktifkan tiga komponen dasar pada aplikasi android, yaitu Activity(menjalankan activity), service(inisiasi service), dan broadcast receiver(pengiriman pesan kepada broadcast receiver).
+Intent bisa digunakan untuk mentransfer data dan melakukan aktivitas tertentu baik dalam aplikasi atau aplikasi lainnya.
+
+https://diandeveloper.wordpress.com/2013/11/16/android-intent/
+
+error
+https://www.youtube.com/watch?v=3f0NAn5xFy4
+https://www.youtube.com/watch?v=bgIUdb-7Rqo
+
+solution
+https://www.okedroid.com/2017/06/belajar-mempassing-nilai-dari-activity-satu-ke-activity-lainya.html
