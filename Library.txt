@@ -1,0 +1,16 @@
+Apa itu library??
+Library adalah layer tempat fitur-fitur tambahan android berada. Pada umumnya library diakses untuk mempermudah atau mempercepat pembuatan suatu aplikasi. Library android sama dengan modul aplikasi android lainnya yang berisi source code, file resource, dan Android manifest. Library android dicompile menjadi file Android Archive (AAR).
+
+Disaat  apa library android digunakan??
+-Saat membangun beberapa aplikasi yang menggunakan beberapa komponen yang sama.
+-Saat membangun aplikasi yang ada beberapa variasi APK, misalnya versi berbayar dan tidak.
+
+Bagaimana cara membuatnya?
+1. pada android studio: File>New>New Module
+2. Dalam Create New Module, klik Android Library, kemudian next.
+3. Beri nama Library anda pilih SDK minimum, Finish.
+
+
+sumber:
+https://www.codepolitan.com/library-yang-wajib-kamu-coba-untuk-membuat-aplikasi-android-59b254b6d153c
+https://developer.android.com/studio/projects/android-library.html?hl=id
